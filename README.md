@@ -71,4 +71,3 @@ Make sure to include a `LICENSE` file in the repository with the appropriate ter
 
 ---
 
-This template strikes a professional tone while remaining functional and easy to update. Let me know if you'd like further refinements or additional sections! 🚀
