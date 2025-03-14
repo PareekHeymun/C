@@ -1,6 +1,6 @@
-# C Programming Repository
+# C Toolbox
 
-Welcome to the **C Programming Repository**, a comprehensive collection of programs written in the C programming language. This repository aims to provide robust solutions to common problems and demonstrate core programming concepts for learners and practitioners alike.
+Welcome to the **C Toolbox**, a comprehensive collection of programs written in the C programming language. This repository aims to provide robust solutions to common problems and demonstrate core programming concepts for learners and practitioners alike.
 
 ---
 
